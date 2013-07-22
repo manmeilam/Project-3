@@ -4,3 +4,6 @@ Let's commit this change.
 
 
 Let's add something for the 3rd commit.
+
+
+Something is not kept tracked correctly. Let's do one more commit - 4th commit.
